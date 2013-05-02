@@ -11,7 +11,7 @@ Installation
 
  - Edit your _config.yml file
    * Add ```custom/asides/coderbits_portfolio.html``` to the ```default_asides```
-   * Add ```coderbits_user``` key and set your coderbits username
+   * Add a ```coderbits_user``` key and set your coderbits username
 
 
 Example
@@ -21,6 +21,11 @@ default_asides: [custom/asides/coderbits_portfolio.html, asides/recent_posts.htm
 
 coderbits_user: scott
 
+
+Demo
+----
+
+See it in action here: [scottksmith.com](http://scottksmith.com)
 
 License
 -------
